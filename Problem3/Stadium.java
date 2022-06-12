@@ -4,7 +4,7 @@ public enum Stadium {
 
 	WANKHEDE_STADIUM,
 	CHIDAMBARAM_STADIUM,
-	M_CHINNASWAMY_STADIUM;
+	M_CHINNASWAMY_STADIUM, EDEN_GARDENS_STADIUM;
 }
 
 /*
@@ -28,4 +28,4 @@ If Stadium = M_CHINNASWAMY_STADIUM then print “This is the home ground of RCB”
 
 call the above homeTeamStadium method by taking the input Stadium name from the user using the
 Scanner class.
-*/
+*///

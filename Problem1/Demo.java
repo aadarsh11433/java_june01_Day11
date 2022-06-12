@@ -13,7 +13,7 @@ public class Demo {
 		obj.defMethodX();
 		obj.printName();
 		
-		System.out.println("=================================");
+		System.out.println("=================================");  //
 		
 		System.out.println("static methods  ------------>");
 

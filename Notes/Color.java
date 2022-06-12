@@ -2,7 +2,7 @@ package com.Notes;
 
 public class Color{
 	
-	enum Colour {
+	enum Colour {  // fixed 
 		RED,
 		GREEN,
 		BLUE;
@@ -17,7 +17,7 @@ public class Color{
 				// Calling ordinal() to find index of color
 				System.out.println(col + " at index " + col.ordinal());
 				}
-
+//
 		}
 	
 }
